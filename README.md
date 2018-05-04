@@ -1,6 +1,7 @@
 # vue-vzant
 
 > A Vue.js project
+> demo https://yok1ng.github.io/vue-Vant/dist/index.html
 
 ## Build Setup
 
